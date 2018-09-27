@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 主题背景颜色 -->
+    <color name="themeColor">#0383c6</color>
+
+    <!-- 注册按钮背景色 -->
+    <color name="registerBgColor">#62c34f</color>
+
+    <!-- 接单成功字体颜色 -->
+    <color name="succeedTextColor">#49b734</color>
+
+    <!-- 接单失败字体颜色 -->
+    <color name="failTextColor">#fa6c62</color>
+
+    <!-- 透明背景 -->
+    <color name="white">#ffffff</color>
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+    <!-- 灰色 -->
+    <color name="grey">#666666</color>
+
+    <!-- 灰色1 -->
+    <color name="grey1">#999999</color>
+    <color name="sendpress">#236BC5</color>
+    <color name="red">#FF0000</color>
+</resources>
